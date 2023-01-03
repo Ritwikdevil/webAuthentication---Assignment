@@ -1,0 +1,30 @@
+{
+  "name": "webauthentication-assignment",
+  "version": "1.0.0",
+  "description": "functionup assignment demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritwikdevil/webAuthentication-Assignment.git"
+  },
+  "author": "ritwik mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritwikdevil/webAuthentication-Assignment/issues"
+  },
+  "homepage": "https://github.com/Ritwikdevil/webAuthentication-Assignment#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "short-unique-id": "^4.4.4"
+  }
+}
